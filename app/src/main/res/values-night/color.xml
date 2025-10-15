@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_primary">#FFFFFF</color> <!-- Blanco -->
+    <color name="text_secondary">#CCCCCC</color> <!-- Gris claro -->
+    <color name="problemaDefault">#FFFFFF</color> <!-- blanco en modo oscuro -->
+    <color name="background_primary">#CCCCCC</color>
+</resources>

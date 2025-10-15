@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+
+    <!-- Círculo azul (fondo) -->
+    <path
+        android:fillColor="#2196F3"
+    android:pathData="M16,2c7.732,0 14,6.268 14,14s-6.268,14 -14,14S2,23.732 2,16S8.268,2 16,2z"/>
+
+    <!-- Círculo blanco (centro) -->
+    <path
+        android:fillColor="#FFFFFF"
+    android:pathData="M16,10c3.314,0 6,2.686 6,6s-2.686,6 -6,6s-6,-2.686 -6,-6S12.686,10 16,10z"/>
+
+    <!-- Punto central azul (opcional) -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M16,13c1.657,0 3,1.343 3,3s-1.343,3 -3,3s-3,-1.343 -3,-3S14.343,13 16,13z"/>
+</vector>

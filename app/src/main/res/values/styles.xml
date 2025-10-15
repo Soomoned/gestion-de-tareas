@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+    <style name="ListViewAparence">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="ForceLightSpinner" parent="ThemeOverlay.AppCompat.Light">
+        <!-- Color del texto -->
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:popupBackground">@color/white</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
